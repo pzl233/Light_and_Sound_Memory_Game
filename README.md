@@ -40,7 +40,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+Basic winning walkthrough
+<img src="https://github.com/pzl233/Light_and_Sound_Memory_Game/blob/main/walkthrough.gif"><br>
+
+Player loses after 3 mistakes
+<img src="https://github.com/pzl233/Light_and_Sound_Memory_Game/blob/main/walkthrough2.gif"><br>
+
+Player loses when the time runs out
+<img src="https://github.com/pzl233/Light_and_Sound_Memory_Game/blob/main/walkthrough3.gif"><br>
 
 
 ## Reflection Questions
