@@ -4,7 +4,7 @@
 
 Submitted by: Zhuoliang Pu
 
-Time spent: 5-6 hours spent in total
+Time spent: 8 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/petal-glaze-snipe
 
